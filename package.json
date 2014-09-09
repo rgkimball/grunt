@@ -1,0 +1,29 @@
+{
+  "name": "oilchange",
+  "description": "OilChange",
+  "version": "0.1.0",
+  "author": "Elevated Third",
+  "repository": {
+    "type": "git",
+    "url": "oilchange@svn-2744.devcloud.hosting.acquia.com:oilchange.git",
+    "htdocs_path": "docroot"
+  },
+  "theme": {
+    "name": "e3_zen",
+    "path": "sites/all/themes",
+    "sass": "sass",
+    "css": "css",
+    "js": "js",
+		"images": "images"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-compass": "~0.7.0",
+    "grunt-contrib-concat": "~0.5.0",
+		"grunt-contrib-imagemin": "^0.7.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-prompt": "^1.1.0",
+    "grunt-shell": "^0.7.0"
+  }
+}
