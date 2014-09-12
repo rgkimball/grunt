@@ -125,7 +125,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch'); // Watch files & livereload
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-compass');
-  grunt.loadNpmTasks('grunt-contrib-imagemin');
+/*   grunt.loadNpmTasks('grunt-contrib-imagemin'); */
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-prompt'); // Configuration & confirmation
   grunt.loadNpmTasks('grunt-shell');
