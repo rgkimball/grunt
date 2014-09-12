@@ -41,7 +41,7 @@ Here’s a list of currently enabled grunt plugins and what they’re used for:
 
 - [**grunt-contrib-compass**](https://github.com/gruntjs/grunt-contrib-compass) (~0.7.0): Runs compass if any Sass files are changed while grunt is running
 - [**grunt-contrib-concat**](https://github.com/gruntjs/grunt-contrib-concat) (~0.5.0): Used to compile js files into one file (called theme-name.js)
-- [**grunt-contrib-imagemin**](https://github.com/gruntjs/grunt-contrib-imagemin) (~0.7.1): Minifies any images in the theme-name/images folder
+- [**grunt-contrib-imagemin**](https://github.com/gruntjs/grunt-contrib-imagemin) (~0.7.1): *Temporarily removed; was causing build errors*
 - [**grunt-contrib-jshint**](https://github.com/gruntjs/grunt-contrib-jshint) (^0.10.0): *Not used*
 - [**grunt-contrib-watch**](https://github.com/gruntjs/grunt-contrib-watch) (~0.6.1): Implements basic grunt watch functionality and livereload
 - [**grunt-prompt**](https://github.com/dylang/grunt-prompt) (^1.1.0): Used to select development environments and set commit messages during ```grunt launch```
